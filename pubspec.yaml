@@ -4,6 +4,7 @@ version: 1.0.0
 homepage: https://github.com/ravitaak/youtube_video_validator
 screenshots:
   - description: 'Usage: Youtube Video URL Validator'
+    path: example/screenshots/example.png
 
 environment:
   sdk: '>=2.18.0 <3.0.0'
