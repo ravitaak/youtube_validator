@@ -1,3 +1,6 @@
+## 1.0.2
+
+- Example added
 ## 1.0.1
 
 - License Details Changed
