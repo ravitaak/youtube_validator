@@ -1,4 +1,4 @@
-import 'package:youtube_video_validator/youtube_video_validator.dart';
+import 'package:youtube_video_validator/youtube_validator.dart';
 
 void main() {
   print(

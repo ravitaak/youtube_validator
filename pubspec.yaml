@@ -1,13 +1,13 @@
-name: youtube_video_validator
+name: youtube_validator
 description: This is a small package to validate the youtube video link and playlist link and we can also check the availability of video or playlist.
 version: 1.0.1
-homepage: https://github.com/ravitaak/youtube_video_validator
+homepage: https://github.com/ravitaak/youtube_validator
 screenshots:
   - description: 'Usage: Youtube Video URL Validator'
     path: example/screenshots/example.png
-
 environment:
-  sdk: '>=2.18.0 <3.0.0'
+  sdk: '>=2.19.4 <3.0.0'
+
 
 dependencies:
   http: ^0.13.5
